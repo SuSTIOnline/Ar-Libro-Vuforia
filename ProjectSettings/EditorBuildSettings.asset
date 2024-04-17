@@ -5,7 +5,19 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: Assets/TESTS/EscenasTest/MainMenuTest.unity
+    guid: 94d2df4f3acc6cb45b56eba9447ff638
   - enabled: 1
-    path: Assets/TESTS/EscenasTest/SampleScene.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
+    path: Assets/TESTS/EscenasTest/MainMenu.unity
+    guid: 4d863d8e4a5809945bcbc6849993ba22
+  - enabled: 1
+    path: Assets/TESTS/EscenasTest/CameraScene.unity
+    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 1
+    path: Assets/TESTS/EscenasTest/TheGift.unity
+    guid: 72a68eb2efd667d408d5b15e62650c5f
+  - enabled: 1
+    path: Assets/TESTS/EscenasTest/AlbumScene.unity
+    guid: f5f1384bcba997d4e9604140841cf5c8
   m_configObjects: {}
